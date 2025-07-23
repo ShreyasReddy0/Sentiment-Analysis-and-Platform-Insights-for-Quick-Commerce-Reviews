@@ -1,5 +1,7 @@
 # Sentiment Analysis and Platform Insights for Quick Commerce Reviews
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 This project focuses on analyzing user reviews from quick commerce platforms like Blinkit, Zepto, and Swiggy Instamart to improve customer experience. Using machine learning (Logistic Regression) and natural language processing (NLP), it classifies sentiments (positive, negative, neutral) from review texts and provides useful insights based on user demographics like age, gender, and location.
 
 ## Key Features
